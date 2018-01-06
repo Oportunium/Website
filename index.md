@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Oportunium
 
-You can use the [editor on GitHub](https://github.com/Oportunium/Website/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Oportunium coin (OPT) is a digital currency that allows people to send money anywh­ere in the world ins­tantly, securely and at near zero cost. It focuses on creating a multi entry, high rewards monetary system that empowers people to achieve financial freedom through blockchain based technology. OPT’s conceptual goal is to become an ultra-scarce non-government controlled storage of wealth with software facilities that can increase that wealth over time.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
